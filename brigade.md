@@ -28,14 +28,14 @@
 
 ## Справка - https://ads.vk.com/help
 
-- Клик на "Авторизация" редиректит на ads.vk.com/help/categories/authorization
-- Клик на "Как настроить рекламу" редиректит на ads.vk.com/help/categories/general
-- Клик на "Инструменты рекламы" редиректит на ads.vk.com/help/categories/features
-- Клик на "Статистика и финансы" редиректит на ads.vk.com/help/categories/statistics
-- Клик на "Документы" редиректит на ads.vk.com/help/categories/documents
-- Клик на "Упрощенный кабинет" редиректит на ads.vk.com/help/categories/mini_ads
-- Клик на "FAQ" редиректит на ads.vk.com/help/categories/faq
-- Клик на "Кабинет партнера" редиректит на ads.vk.com/help/categories/partner
+- Клик на "Авторизация" редиректит на https://ads.vk.com/help/categories/authorization
+- Клик на "Как настроить рекламу" редиректит на https://ads.vk.com/help/categories/general
+- Клик на "Инструменты рекламы" редиректит на https://ads.vk.com/help/categories/features
+- Клик на "Статистика и финансы" редиректит на https://ads.vk.com/help/categories/statistics
+- Клик на "Документы" редиректит на https://ads.vk.com/help/categories/documents
+- Клик на "Упрощенный кабинет" редиректит на https://ads.vk.com/help/categories/mini_ads
+- Клик на "FAQ" редиректит на https://ads.vk.com/help/categories/faq
+- Клик на "Кабинет партнера" редиректит на https://ads.vk.com/help/categories/partner
 - Ввод в строке "создание" без отправки выводится 5 предположений и ссылка "показать все результаты"
 - При смене фокуса подсказки убираются
 - Ввод в строке "создание" и отправка запроса редиректит на https://ads.vk.com/help/search?search=
