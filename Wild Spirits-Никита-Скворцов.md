@@ -1,4 +1,10 @@
-## Монетизация - https://ads.vk.com/partner
+# [VK Реклама](https://ads.vk.com/)
+
+Тестовый аккаунт (авторизация через почту Mail.ru):  
+Логин - nekit2321@mail.ru  
+Пароль - nekit2321serial  
+
+## Монетизация - https://ads.vk.com/partner (Без авторизации)
 
 - Монетизация. Кнопка "Перейти в кабинет" редиректит на ads.vk.com/hq/partner
 
@@ -12,7 +18,7 @@
 
 - Монетизация. Форма обратной связи. При отправке формы, появляется надпись "Спасибо, ваша заявка принята"
 
-## Справка - https://ads.vk.com/help
+## Справка - https://ads.vk.com/help (Без авторизации)
 
 - Справка. Кнопка "Авторизация" редиректит на ads.vk.com/help/categories/authorization
 
@@ -36,6 +42,7 @@
 
 - Справка. Поиск. Отправка запроса "создание" редиректит на https://ads.vk.com/help/search?search=%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5
 
+![](search_hints.png)
 
 ## Центр коммерции - https://ads.vk.com/hq/ecomm/catalogs
 
