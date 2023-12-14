@@ -1,6 +1,7 @@
 ## Главная страница https://ads.vk.com
 
 ### Карусель. Без авторизации
+
 [!carousel](https://github.com/CyTb-On-Fire/homework-3-autumn-2023/blob/main/screenshots_A_M/carousel.png)
 
 - Главная страница. Карусель. При нажатии на индикаторы текущей страницы карусели открываются переключаются 
