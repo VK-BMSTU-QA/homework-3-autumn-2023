@@ -2,13 +2,13 @@
 
 ### Карусель. Без авторизации
 
-[!carousel](https://github.com/CyTb-On-Fire/homework-3-autumn-2023/blob/main/screenshots_A_M/carousel.png)
+![carousel](https://github.com/CyTb-On-Fire/homework-3-autumn-2023/blob/main/screenshots_A_M/carousel.png)
 
 - Главная страница. Карусель. При нажатии на индикаторы текущей страницы карусели открываются переключаются 
 соответствующие элементы карусели, отсчет до автоматического перехода начинается сначала.
 
 ### Кейсы. Без авторизации
-[!cases](https://github.com/CyTb-On-Fire/homework-3-autumn-2023/blob/main/screenshots_A_M/cases.png)
+![cases](https://github.com/CyTb-On-Fire/homework-3-autumn-2023/blob/main/screenshots_A_M/cases.png)
 
 
 - Кейсы. При наведении курсора на карточку кейса, размер изображения увеличивается.
@@ -16,7 +16,7 @@
 - Кейсы. При нажатии на кейс, выполняется переход на страницу соответствующего кейса.
 
 ### Вебинары. Без авторизации. https://ads.vk.com/events
-[!webinars](https://github.com/CyTb-On-Fire/homework-3-autumn-2023/blob/main/screenshots_A_M/webinars.png)
+![webinars](https://github.com/CyTb-On-Fire/homework-3-autumn-2023/blob/main/screenshots_A_M/webinars.png)
 
 
 - Вебинары. При нажатии на карточку "Обучающие вебинары" выполняется переход https://ads.vk.com/events
@@ -30,7 +30,7 @@
 - Вебинары. На странице мероприятия, при нажатии на кнопку регистрация, выполняется переход на https://expert.vk.com
 
 ### Новостные ленты. Без авторизации. https://ads.vk.com/news
-[!news](https://github.com/CyTb-On-Fire/homework-3-autumn-2023/blob/main/screenshots_A_M/news.png)
+![news](https://github.com/CyTb-On-Fire/homework-3-autumn-2023/blob/main/screenshots_A_M/news.png)
 
 
 - Новостная лента. При нажатии на карточку новости выполняется переход на страницу соответствующей новости.
