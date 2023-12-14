@@ -19,14 +19,14 @@
 
 ## Справка - https://ads.vk.com/help
 1. Справка. Кнопка "Справка" редиректит на https://ads.vk.com/help
-1. Справка. Кнопка "Авторизация" редиректит на ads.vk.com/help/categories/authorization
-2. Справка. Кнопка "Как настроить рекламу" редиректит на ads.vk.com/help/categories/general
-3. Справка. Кнопка "Инструменты рекламы" редиректит на ads.vk.com/help/categories/features
-4. Справка. Кнопка "Статистика и финансы" редиректит на ads.vk.com/help/categories/statistics
-5. Справка. Кнопка "Документы" редиректит на ads.vk.com/help/categories/documents
-6. Справка. Кнопка "Упрощенный кабинет" редиректит на ads.vk.com/help/categories/mini_ads
-7. Справка. Кнопка "FAQ" редиректит на ads.vk.com/help/categories/faq
-8. Справка. Кнопка "Кабинет партнера" редиректит на ads.vk.com/help/categories/partner
+1. Справка. Кнопка "Авторизация" редиректит на https://ads.vk.com/help/categories/authorization
+2. Справка. Кнопка "Как настроить рекламу" редиректит на https://ads.vk.com/help/categories/general
+3. Справка. Кнопка "Инструменты рекламы" редиректит на https://ads.vk.com/help/categories/features
+4. Справка. Кнопка "Статистика и финансы" редиректит на https://ads.vk.com/help/categories/statistics
+5. Справка. Кнопка "Документы" редиректит на https://ads.vk.com/help/categories/documents
+6. Справка. Кнопка "Упрощенный кабинет" редиректит на https://ads.vk.com/help/categories/mini_ads
+7. Справка. Кнопка "FAQ" редиректит на https://ads.vk.com/help/categories/faq
+8. Справка. Кнопка "Кабинет партнера" редиректит на https://ads.vk.com/help/categories/partner
 9. Справка. Поиск. При вводе запроса "api" выводится 4 предположения 
 10. Справка. Поиск. При вводе запроса "статистика" выводится 5 предположений и ссылка "показать все результаты"
 11. Справка. Поиск. При вводе "дыоапдырапаыврп" выводится "Ничего не найдено"
