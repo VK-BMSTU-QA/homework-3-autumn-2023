@@ -6,7 +6,7 @@
 
 Почта: tp_autumn_selenium@mail.ru
 
-Пароль: Georrgiya
+Пароль: _
 
 ## Навигация - https://ads.vk.com (без авторизации)
 
