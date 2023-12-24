@@ -60,7 +60,7 @@
   ![long_advertiser](https://github.com/marcussss1/homework-3-autumn-2023/blob/main/images/long_advertiser.jpg)
 - Кампании. Создание кампании. Настройка кампании. Целевые действия. Каталог. При нажатии на кнопку "Продолжить" с пустым полем "Рекламируемый сайт" появляется уведомление "Обязательное поле".
 
-  ![empty_url_site](https://github.com/marcussss1/homework-3-autumn-2023/blob/main/images/empty_url_site.jpg)
+  ![empty_url_catalog](https://github.com/marcussss1/homework-3-autumn-2023/blob/main/images/empty_url_catalog.jpg)
 - Кампании. Создание кампании. Настройка кампании. Целевые действия. Каталог. При нажатии на кнопку "Продолжить" с невалидной ссылкой(неимеющую структуру url-адреса) "Рекламируемый сайт" появляется уведомление "Неверный формат URL".
 
   ![incorrect_url_catalog](https://github.com/marcussss1/homework-3-autumn-2023/blob/main/images/incorrect_url_catalog.jpg)
