@@ -51,10 +51,10 @@
   ![long_short_description](https://github.com/marcussss1/homework-3-autumn-2023/blob/main/images/long_short_description.jpg)
 - Кампании. Создание кампании. Объявления. Сайт. При нажатии на кнопку "Опубликовать" при длинном поле "Длинное описание"(2000 символов) под этим полем появляется сообщение "Превышена максимальная длина поля"
 
-  ![long_long_description](https://github.com/marcussss1/homework-3-autumn-2023/blob/main/images/long_long_description.jpg)
+  ![long_long_description_site](https://github.com/marcussss1/homework-3-autumn-2023/blob/main/images/long_long_description_site.jpg)
 - Кампании. Создание кампании. Объявления. Сайт. При нажатии на кнопку "Опубликовать" при длинном поле "Текст рядом с кнопкой"(30 символов) под этим полем появляется сообщение "Превышена максимальная длина поля"
 
-  ![long_long_button_text](https://github.com/marcussss1/homework-3-autumn-2023/blob/main/images/long_long_button_text.jpg)
+  ![long_button_text](https://github.com/marcussss1/homework-3-autumn-2023/blob/main/images/long_button_text.jpg)
 - Кампании. Создание кампании. Объявления. Сайт. При нажатии на кнопку "Опубликовать" при длинном поле "Данные рекламодателя"(115 символов) под этим полем появляется сообщение "Превышена максимальная длина поля"
 
   ![long_advertiser](https://github.com/marcussss1/homework-3-autumn-2023/blob/main/images/long_advertiser.jpg)
