@@ -12,12 +12,16 @@
 
 ### Позитивные кейсы
 
-![campaign_creating_page](https://github.com/marcussss1/homework-3-autumn-2023/blob/main/images/campaign_creating_page.jpg)
 - Кампании. Создание кампании. При успешном создании кампании через "Сайт" она появляется в списке на странице https://ads.vk.com/hq/dashboard/ad_plans
+![site](https://github.com/marcussss1/homework-3-autumn-2023/blob/main/images/site.jpg)
 - Кампании. Создание кампании. При успешном создании кампании через "Сообщество и профиль" она появляется в списке на странице https://ads.vk.com/hq/dashboard/ad_plans
+![community](https://github.com/marcussss1/homework-3-autumn-2023/blob/main/images/community.jpg)
 - Кампании. Создание кампании. При успешном создании кампании через "Одноклассники" она появляется в списке на странице https://ads.vk.com/hq/dashboard/ad_plans
+![classmates](https://github.com/marcussss1/homework-3-autumn-2023/blob/main/images/classmates.jpg)
 - Кампании. Создание кампании. При успешном создании кампании через "Каталог товаров" она появляется в списке на странице https://ads.vk.com/hq/dashboard/ad_plans
+![catalog](https://github.com/marcussss1/homework-3-autumn-2023/blob/main/images/catalog.jpg)
 - Кампании. Создание кампании. При успешном создании кампании через "VK Mini Apps & VK Games" она появляется в списке на странице https://ads.vk.com/hq/dashboard/ad_plans
+![vk_apps](https://github.com/marcussss1/homework-3-autumn-2023/blob/main/images/vk_apps.jpg)
 - Кампании. Удалении кампании. При наличии кампании в списке и её удалении, кампания исчезает из списка
 ![campaigns_list](https://github.com/marcussss1/homework-3-autumn-2023/blob/main/images/campaigns_list.jpg)
 - Кампании. Удалении черновика. При наличии черновика в списке и его удалении, черновик исчезает из списка
