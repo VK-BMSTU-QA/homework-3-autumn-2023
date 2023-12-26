@@ -4,7 +4,7 @@
 
 ## Авторизационные данные
 
-Почта: tp_autumn_selenium@mail.ru
+Почта: fsda43c5244tfg@mail.ru
 
 Пароль: _
 
